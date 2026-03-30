@@ -84,6 +84,7 @@ Charts & Visuals:
        * Table: Patient ID, Outcome, Treatment Type, Doctor Name, Insurance
 
 Navigation:
+
       => Forward buttons for page navigation
       => Bookmark-based open/close menu
 
