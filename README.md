@@ -91,5 +91,4 @@ Navigation:
 ---
 
 ## 🎯 Goal
-=> To provide insights on doctor performance, patient recovery, and department efficiency, supporting improved decision-making and operational management in healthcare facilities.
-=> To provide insights on **doctor performance, patient recovery, and department efficiency**, supporting improved decision-making and operational management in healthcare facilities.
+=> To provide insights on doctor performance, patient recovery, and department efficiency, supporting improved decision-making and operational management in healthcare facilities.To provide insights on **doctor performance, patient recovery, and department efficiency**, supporting improved decision-making and operational management in healthcare facilities.
