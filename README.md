@@ -97,3 +97,12 @@ Navigation:
      => Approximately 40% of patients are not covered by insurance, indicating a significant gap in healthcare financial coverage.
      => Nearly 50% of patients remain unrecovered during the observed period, suggesting challenges in treatment outcomes or recovery time.
      => More than 25% of patients require cardiology consultation, highlighting a higher prevalence of cardiac-related health issues.
+
+
+---
+
+## Recommandation
+
+     =>Introduce insurance partnerships or flexible payment plans to improve patient affordability and increase hospital revenue.
+     =>Analyze treatment effectiveness, improve care protocols, and monitor high-risk cases to enhance recovery rates.
+     =>Increase investment in cardiology departments, hire specialists, and expand cardiac care facilities.
